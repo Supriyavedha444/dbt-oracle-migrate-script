@@ -11,10 +11,12 @@
 
 with source_data as (
 
-    select 1 as id, 'nisargamane' name
+<<<<<<< HEAD
+    select 1 as id,'nisargamane' name
     union all
     select null as id,'nisargamane' name
-    union all
+
+>>>>>>> 2a1b61f47f6dabd6d901ec1acbd7ab5fe67f28b6
 
 )
 
