@@ -11,9 +11,12 @@
 
 with source_data as (
 
+<<<<<<< HEAD
     select 1 as id,'nisargamane' name
     union all
     select null as id,'nisargamane' name
+
+>>>>>>> 2a1b61f47f6dabd6d901ec1acbd7ab5fe67f28b6
 
 )
 
